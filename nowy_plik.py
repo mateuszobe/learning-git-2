@@ -1,0 +1,2 @@
+#coś nowego
+print("CZEŚĆ")
